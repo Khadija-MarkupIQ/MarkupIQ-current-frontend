@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { getSupabaseClient } from '../lib/supabaseClient'
+import { getSupabaseClient } from "@/app/lib/supabaseClient";
 import { useRouter } from "next/navigation";
 import React from 'react'
 import icon from '../..//..//components//assets/PHOTO-2025-11-14-12-57-26 (2).png'

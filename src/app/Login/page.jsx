@@ -68,7 +68,7 @@ const page = () => {
                         {/* <div className='flex justify-between w-full'> */}
                         <p>Remember me</p>
 
-                        <Link href="/forget-password/reset-password">
+                        <Link href="/forget-password/reset">
                             <p className='ml-auto'>Forgot Password?</p>
                         </Link>
                         {/* </div> */}
